@@ -3,7 +3,7 @@ defmodule Karten.ChristianShuffle do
 
 	def shuffle(decks) do
 		decks
-		# |> Enum.concat
+		|> Enum.concat
 		# |> cut
 	end
 
